@@ -9,7 +9,7 @@ body
 h1
 {
 
-color: #F14A16
+color: #313552
 
 }
 
@@ -24,10 +24,12 @@ color: #F14A16
 
 hr
 {
-  background-color:#A3DA8D;
+  background-color:#1A1A40;
 
   border-style: ridge;
 
   height: 2px;
+  
+  size="3"
   
 }
